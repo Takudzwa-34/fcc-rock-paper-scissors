@@ -25,5 +25,5 @@ Each opponent follows a specific algorithmic strategy, and the objective is to d
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/fcc-rock-paper-scissors.git
+   git clone https://github.com/Takudzwa-34/fcc-rock-paper-scissors.git
    cd fcc-rock-paper-scissors
